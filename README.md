@@ -2,3 +2,4 @@
 
 <p> This is feature 1</p>
 <p> This is a dropdown box (dropdown) </p>
+<p> This is another feature (button) </p>
